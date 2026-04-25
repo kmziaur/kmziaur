@@ -1,6 +1,7 @@
-# 👋 Hi, I'm K.M Ziaur Rahman
+<h1 align="center">👋 Hi, I'm K.M Ziaur Rahman</h1>
 
-Compititive Programmer | 💻 Full Stack Developer | 🤖 ML Enthusiast  
+
+Compititive Programmer | Full Stack Developer 
 
 ---
 
@@ -35,11 +36,6 @@ Compititive Programmer | 💻 Full Stack Developer | 🤖 ML Enthusiast
 - Node.js
 - Express.js
 - MongoDB
-
-### 🤖 Machine Learning
-- PyTorch
-- Scikit-learn
-- NLP (NLTK)
 
 ### ⚙️ Tools & Technologies
 - Git & GitHub
