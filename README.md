@@ -6,7 +6,8 @@ Compititive Programmer | 💻 Full Stack Developer | 🤖 ML Enthusiast
 
 ## 🚀 About Me
 - 🔭 Currently working on **Cravixa**
-- 🧠 Researching **Multimodal Emotion Recognition (Text, Audio, Video)**
+- 🏆 Passionate about **Competitive Programming**
+- ⚡  Strong in **Data Structures & Algorithms**
 - 🌱 Learning **Advanced Web Development & System Design**
 - 💡 Interested in **Full Stack Development**
 
@@ -19,6 +20,15 @@ Compititive Programmer | 💻 Full Stack Developer | 🤖 ML Enthusiast
 - Java
 - Python
 - JavaScript
+
+### 📚 Core Concepts
+- Data Structures
+- Algorithms
+- Dynamic Programming
+- Graph Theory
+- Number Theory
+- Greedy Algorithms
+- Backtracking
 
 ### 🌐 Web Development
 - React.js
