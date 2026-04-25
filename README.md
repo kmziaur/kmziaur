@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Cravixa**
-- 🏆 Passionate about **Competitive Programming**
-- ⚡ Strong in **Data Structures & Algorithms**
-- 🌱 Learning **Advanced Web Development & System Design**
-- 💡 Interested in **Full Stack Development**
+- Currently working on **Cravixa**
+- Passionate about **Competitive Programming**
+- Strong in **Data Structures & Algorithms**
+- Learning **Advanced Web Development & System Design**
+  Interested in **FullStack Web Development**
 
 ---
 
