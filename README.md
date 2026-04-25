@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm K.M Ziaur Rahman</h1>
 
 
-Compititive Programmer | Full Stack Developer 
+<h1 align="center"> Compititive Programmer | Full Stack Developer </h1>
 
 ---
 
