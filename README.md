@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- Currently working on **Cravixa**
+- Currently working on **Zentrix**
 - Passionate about **Competitive Programming**
 - Strong in **Data Structures & Algorithms**
 - Learning **Advanced Web Development & System Design**
